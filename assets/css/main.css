@@ -30,10 +30,9 @@ section, summary, time, mark, audio, video {
 		    width: 55vw;
 		    height: 50vw;
 		    border: 0;
-		    transform: scale(1.15);
+		    transform: scale(0.9);
 		    transform-origin: 0 0;
 	}
-
 
 
 article, aside, details, figcaption, figure,
